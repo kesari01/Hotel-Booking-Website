@@ -1,0 +1,114 @@
+[
+   {
+      "name":"Hotel 1, Patna, Bihar",
+      "imageurls":[
+         "https://img.freepik.com/free-vector/hotel-building-concept-illustration_114360-14039.jpg?w=740&t=st=1681504287~exp=1681504887~hmac=8d8fddd1d6baf921647e4ef55247f308a884b5971937eeb4d19b4001f34094f9",
+         "https://img.freepik.com/free-vector/cartoon-bedroom-interior-background-template-cozy-modern-house-room-morning-light_33099-171.jpg?w=1060&t=st=1681505951~exp=1681506551~hmac=dfcbd8738e594e96822e00e3ebdd3110feab8ec36139730a5e36f12e29d0a6c2"
+      ],
+      "rentperday":1500,
+      "maxcount":3,
+      "receptionnumber":1112223330,
+      "currentbookings":[
+
+      ],
+      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+   },
+   {
+      "name":"Hotel 2, Delhi, New Delhi",
+      "imageurls":[
+         "https://img.freepik.com/free-vector/flat-hotel-facade-background_23-2148159873.jpg?w=740&t=st=1681505669~exp=1681506269~hmac=1e2084a35e91a9ff2765d7559a7eb55ff1d883bd9bd98d63766b466d51ad855a",
+         "https://img.freepik.com/premium-vector/graphic-cartoon-bedroom_46176-247.jpg?w=996"
+      ],
+      "rentperday":1500,
+      "maxcount":3,
+      "receptionnumber":2223334440,
+      "currentbookings":[
+
+      ],
+      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+   },
+   {
+      "name":"Hotel 3, Lucknow, Utter Pradesh",
+      "imageurls":[
+         "https://img.freepik.com/free-vector/flat-hotel-facade-background_23-2148158803.jpg?w=740&t=st=1681505711~exp=1681506311~hmac=71041578c7b77e88678095f2d3affa1fb645f766180ca2d49f897808b33774d8",
+         "https://thumbs.dreamstime.com/z/bedroom-cartoon-style-night-scene-illustration-202535824.jpg"
+      ],
+      "rentperday":2000,
+      "maxcount":3,
+      "receptionnumber":3334445550,
+      "currentbookings":[
+
+      ],
+      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+   },
+   {
+      "name":"Hotel 4, Mumbai, Maharastra",
+      "imageurls":[
+         "https://img.freepik.com/free-vector/flat-hotel-building-background_23-2148175421.jpg?w=740&t=st=1681505749~exp=1681506349~hmac=590cc58ea31d3bbdb63a1125fded5257707fcd0a0e0c0bd98d509c14ecd0c322",
+         "https://img.freepik.com/free-vector/cartoon-bedroom-interior-background-template-cozy-modern-house-room-morning-light_33099-171.jpg?w=1060&t=st=1681505951~exp=1681506551~hmac=dfcbd8738e594e96822e00e3ebdd3110feab8ec36139730a5e36f12e29d0a6c2"
+      ],
+      "rentperday":1600,
+      "maxcount":4,
+      "receptionnumber":5556667770,
+      "currentbookings":[
+
+      ],
+      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+   },
+   {
+      "name":"Hotel 5, Kolkata, West Bangal",
+      "imageurls":[
+         "https://img.freepik.com/free-vector/flat-hotel-building-background_23-2148170581.jpg?w=740&t=st=1681505793~exp=1681506393~hmac=e07f7aa8ad3ccc2d9e91ae878d192e067c467d6008a253ad7a3df939bc906ccc",
+         "https://img.freepik.com/premium-vector/graphic-cartoon-bedroom_46176-247.jpg?w=996"
+      ],
+      "rentperday":1800,
+      "maxcount":3,
+      "receptionnumber":6667778880,
+      "currentbookings":[
+
+      ],
+      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+   },
+   {
+      "name":"Hotel 6, Patna, Bihar",
+      "imageurls":[
+         "https://img.freepik.com/free-vector/flat-hotel-building-background_23-2148176055.jpg?w=740&t=st=1681505826~exp=1681506426~hmac=820478d6f3fd219cbfe677fbf66fd0ff364889b339fe5b0e0b16d2f0abdd3be4",
+         "https://thumbs.dreamstime.com/z/bedroom-cartoon-style-night-scene-illustration-202535824.jpg"
+      ],
+      "rentperday":1500,
+      "maxcount":1,
+      "receptionnumber":7778889990,
+      "currentbookings":[
+
+      ],
+      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+   },
+   {
+      "name":"Hotel 7, Delhi, New Delhi",
+      "imageurls":[
+         "https://img.freepik.com/free-vector/flat-hotel-building-illustration_23-2148147347.jpg?w=740&t=st=1681505860~exp=1681506460~hmac=442f7f4d95303317c4ff26692595b980048794f24edeb748326d7723ad5e3850",
+         "https://img.freepik.com/free-vector/cartoon-bedroom-interior-background-template-cozy-modern-house-room-morning-light_33099-171.jpg?w=1060&t=st=1681505951~exp=1681506551~hmac=dfcbd8738e594e96822e00e3ebdd3110feab8ec36139730a5e36f12e29d0a6c2"
+      ],
+      "rentperday":4500,
+      "maxcount":1,
+      "receptionnumber":8889991110,
+      "currentbookings":[
+
+      ],
+      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+   },
+   {
+      "name":"Hotel 8, Delhi, New Delhi",
+      "imageurls":[
+         "https://img.freepik.com/free-vector/flat-hotel-building_52683-8000.jpg?w=740&t=st=1681505892~exp=1681506492~hmac=97774e914453a8483768c2f90b20ec1f220a5e0e7c5c81f4434d70df7d30a81a",
+         "https://img.freepik.com/premium-vector/graphic-cartoon-bedroom_46176-247.jpg?w=996"
+      ],
+      "rentperday":4000,
+      "maxcount":2,
+      "receptionnumber":9991112220,
+      "currentbookings":[
+
+      ],
+      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+   }
+]
